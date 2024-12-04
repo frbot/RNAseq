@@ -1,0 +1,1857 @@
+Gene,Annotation
+B8809_0001,chromosomal replication initiator protein DnaA
+B8809_0002,hypothetical protein
+B8809_0003,DNA polymerase III subunit beta
+B8809_0004,recombination protein RecF
+B8809_0005,hypothetical protein
+B8809_0006,DNA gyrase subunit B
+B8809_0007,DNA gyrase subunit A
+B8809_0008,hypothetical protein
+B8809_0009,hypothetical protein
+B8809_0010,pectinesterase
+B8809_0011,GdhA NADP-specific glutamate dehydrogenase
+B8809_0012,transcriptional regulator
+B8809_0013,aspartate aminotransferase
+B8809_0014,hypothetical protein
+B8809_0015,hypothetical protein
+B8809_0016,transposase
+B8809_0017,Multiple substrate aminotransferase (MsaT) containing domain and a regulatory domain of the GntR fam
+B8809_0018,acetylornithine aminotransferase
+B8809_0019,hypothetical protein
+B8809_0020,gluconokinase
+B8809_0021,hypothetical protein
+B8809_0022,hypothetical protein
+B8809_0023,hypothetical protein
+B8809_0024,putative carbonic anhydrase
+B8809_0025,alkyl hydroperoxide reductase
+B8809_0026,putative thioredoxin reductase
+B8809_0027,putative transport protein
+B8809_0028,CebR Cellobiose transporter transcriptional regulator
+B8809_0029,phosphoenolpyruvate carboxylase
+B8809_0030,hypothetical protein
+B8809_0031,putative sodium/proline symporter
+B8809_0032,hypothetical protein
+B8809_0033,hypothetical protein
+B8809_0034,Tryptophanyl-tRNA synthetase
+B8809_0035,Hypothetical protein
+B8809_0036,hypothetical protein
+B8809_0037,glycogen phosphorylase
+B8809_0038,hypothetical protein
+B8809_0039,hypothetical protein
+B8809_0040,hypothetical protein
+B8809_0041,hypothetical protein
+B8809_0042,putative sortase
+B8809_0043,Para-aminobenzoate synthase glutamine amidotransferase component II
+B8809_0044,putative serine/threonine-protein kinase
+B8809_0045,putative serine/threonine protein kinase
+B8809_0046,putative penicillin binding protein transpeptidase
+B8809_0047,cell division protein
+B8809_0048,putative phosphatase
+B8809_0049,hypothetical protein
+B8809_0050,hypothetical protein
+B8809_0051,putative dipeptidyl peptidase
+B8809_0052,hypothetical protein
+B8809_0053,von Willebrand factor type A
+B8809_0054,hypothetical protein
+B8809_0055,Tel-A like protein
+B8809_0056,Hsp20-family heat shock chaperone
+B8809_0057,Hypothetical membrane spanning protein with DUF6 domain permease of the drug/metablite transporter
+B8809_0058,hypothetical protein
+B8809_0059,esterase
+B8809_0060,Lysylcardiolipin synthase/Lysyltransferase
+B8809_0061,methionine sulfoxide reductase
+B8809_0062,DNA/RNA helicase (DEAD/DEAH box family)
+B8809_0063,hypothetical protein
+B8809_0064,hypothetical protein
+B8809_0065,acetyltransferase family protein
+B8809_0066,Queuine tRNA-ribosyltransferase
+B8809_0067,trypsin-like serine protease
+B8809_0068,putative cation-transporting ATPase V
+B8809_0069,AAA+ superfamily ATPase
+B8809_0070,Ferredoxin--NADP reductase
+B8809_0071,Endopeptidase htpX peptidase family M48
+B8809_0072,Fructose-bisphosphate aldolase
+B8809_0073,adenylosuccinate synthase
+B8809_0074,Chloride channel protein
+B8809_0075,CrcB family protein
+B8809_0076,CrcB family protein
+B8809_0077,transcriptional regulator
+B8809_0078,Kup system potassium uptake protein
+B8809_0079,alpha-L-arabinofuranosidase
+B8809_0080,RbsR-type transcription regulator/ ribose operon repressor
+B8809_0081,Glycosyl hydrolases family 31 Alpha-glucosidase or alpha-xylosidase
+B8809_0082,ABC transporter permease
+B8809_0083,Permease protein of ABC transporter system for sugars
+B8809_0084,ABC transporter substrate-binding protein
+B8809_0085,LacI family transcriptional regulator
+B8809_0086,Sucrose phosphorylase
+B8809_0087,putative transport protein
+B8809_0088,Transcriptional regulator LacI family
+B8809_0089,putative transport protein
+B8809_0090,ketol-acid reductoisomerase
+B8809_0091,ketol-acid reductoisomerase
+B8809_0092,Alpha-glucosidase
+B8809_0093,transcriptional regulator
+B8809_0094,4-alpha-glucanotransferase
+B8809_0095,Alpha-glucosidase
+B8809_0096,putative alkaline phosphatase
+B8809_0097,Chaperone protein dnaK
+B8809_0098,GrpE protein
+B8809_0099,chaperone
+B8809_0100,Heat shock regulatory protein hspR
+B8809_0101,xanthine/uracil transport protein
+B8809_0102,putative acyl protein synthase/acyl-CoA reductase
+B8809_0103,putative acyl-CoA reductase
+B8809_0104,3-oxoacyl-[acyl-carrier protein] reductase
+B8809_0105,Haloacid dehalogenase-like hydrolase (HAD superfamily)
+B8809_0106,hypothetical protein
+B8809_0107,Septum site-determining protein minD TadZ-like
+B8809_0108,TadA
+B8809_0109,TadB
+B8809_0110,TadC
+B8809_0111,TadE
+B8809_0112,TadF
+B8809_0113,hypothetical protein
+B8809_0114,transcriptional regulator
+B8809_0115,DNA polymerase III subunits gamma and tau
+B8809_0116,recombination protein RecR
+B8809_0117,putative sortase
+B8809_0118,hypothetical protein
+B8809_0119,hypothetical protein
+B8809_0120,aspartate kinase
+B8809_0121,aspartate kinase
+B8809_0122,aspartate-semialdehyde dehydrogenase
+B8809_0123,hypothetical protein
+B8809_0124,serine threonine protein kinase
+B8809_0125,putative phosphohydrolase
+B8809_0126,2-isopropylmalate synthase
+B8809_0127,putative penicillin-binding protein
+B8809_0128,putative peptidase
+B8809_0129,DNA topoisomerase I
+B8809_0130,Thymidylate kinase
+B8809_0131,DNA polymerase III delta' subunit
+B8809_0132,Hypothetical protein
+B8809_0133,dipeptidase
+B8809_0134,formate-tetrahydrofolate ligase
+B8809_0135,hypothetical protein
+B8809_0136,hypothetical protein
+B8809_0137,putative transport protein
+B8809_0138,hypothetical protein
+B8809_0139,hypothetical protein
+B8809_0140,hypothetical protein
+B8809_0141,hypothetical protein
+B8809_0142,glutamyl-tRNA synthetase
+B8809_0143,hypothetical protein
+B8809_0144,endo-alpha-N-acetylgalactosaminidase cellwall anchor protein family
+B8809_0145,hypothetical protein
+B8809_0146,putative membrane spanning protein with iron permease FTR1 family domain
+B8809_0147,hypothetical protein
+B8809_0148,hypothetical protein
+B8809_0149,ABC transporter permease
+B8809_0150,ABC transporter permease
+B8809_0151,ABC transporter ATP-binding protein
+B8809_0152,hypothetical protein
+B8809_0153,Transcriptional regulator TetR family
+B8809_0154,hypothetical protein
+B8809_0155,hypothetical protein
+B8809_0156,hypothetical protein
+B8809_0157,6-phosphogluconate dehydrogenase
+B8809_0158,6-phosphogluconolactonase
+B8809_0159,hypothetical protein
+B8809_0160,glucose-6-phosphate 1-dehydrogenase
+B8809_0161,Dipeptidase A
+B8809_0162,Glycosyltransferase
+B8809_0163,Transcriptional regulator TetR family
+B8809_0164,Cell division protein ftsY
+B8809_0165,Ammonium transporter
+B8809_0166,nitrogen regulatory protein
+B8809_0167,uridylyltransferase
+B8809_0168,putative multidrug transport protein
+B8809_0169,replicative DNA helicase
+B8809_0170,hypothetical protein
+B8809_0171,cobyric acid synthase CobQ
+B8809_0172,hypothetical protein
+B8809_0173,hypothetical protein
+B8809_0174,cebR Cellobiose transporter transcriptional regulator
+B8809_0175,sugars ABC transporter substrate-binding protein
+B8809_0176,ABC transporter permease
+B8809_0177,ABC transporter permease
+B8809_0178,Hypothetical protein
+B8809_0179,beta-galactosidase
+B8809_0180,beta-galactosidase
+B8809_0181,hypothetical protein
+B8809_0182,ribose-phosphate pyrophosphokinase
+B8809_0183,hypothetical protein
+B8809_0184,SSU ribosomal protein S6P
+B8809_0185,single-strand DNA-binding protein
+B8809_0186,30S ribosomal protein S18
+B8809_0187,50S ribosomal protein L9
+B8809_0188,PTS protein phosphotransferase system phosphocarrier protein HPr
+B8809_0189,PTS protein phosphoenolpyruvate--protein phosphotransferase
+B8809_0190,Glycerol uptake facilitator protein
+B8809_0191,copper-transporting ATPase
+B8809_0192,hypothetical protein
+B8809_0193,hypothetical protein
+B8809_0194,Orotate phosphoribosyltransferase
+B8809_0195,hypothetical protein
+B8809_0196,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+B8809_0197,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A
+B8809_0198,aspartyl/glutamyl-tRNA amidotransferase subunit B
+B8809_0199,putative acetyltransferase
+B8809_0200,Hypothetical protein
+B8809_0201,hypothetical protein
+B8809_0202,hypothetical protein
+B8809_0203,transcription termination factor Rho
+B8809_0204,chorismate mutase
+B8809_0205,hypothetical protein
+B8809_0206,valyl-tRNA synthase
+B8809_0207,ABC transporter substrate binding component
+B8809_0208,endonuclease III
+B8809_0209,putative transcriptional regulator
+B8809_0210,hypothetical protein
+B8809_0211,putative membrane spanning protein
+B8809_0212,Inorganic pyrophosphatase
+B8809_0213,putative amylase
+B8809_0214,putative cell surface protein
+B8809_0215,homoserine O-succinyltransferase
+B8809_0216,ATP synthase subunit A
+B8809_0217,ATP synthase subunit C
+B8809_0218,ATP synthase B chain
+B8809_0219,ATP synthase subunit delta
+B8809_0220,ATP synthase alpha chain
+B8809_0221,ATP synthase subunit gamma
+B8809_0222,ATP synthase subunit beta
+B8809_0223,ATP synthase subunit epsilon
+B8809_0224,hypothetical protein
+B8809_0225,putative peptidyl-prolyl cis-trans isomerase
+B8809_0226,hypothetical protein
+B8809_0227,hypothetical protein
+B8809_0228,hypothetical protein
+B8809_0229,hypothetical protein
+B8809_0230,hypothetical protein
+B8809_0231,hypothetical protein
+B8809_0232,glycerol-3-phosphate dehydrogenase
+B8809_0233,D-alanine--D-alanine ligase
+B8809_0234,ABC transporter substrate binding component
+B8809_0235,ABC transporter permease
+B8809_0236,ABC transporter permease
+B8809_0237,ABC transporter ATP-binding protein
+B8809_0238,hypothetical protein
+B8809_0239,hypothetical protein
+B8809_0240,aspartate ammonia-lyase
+B8809_0241,putative transcriptional regulator
+B8809_0242,hypothetical protein
+B8809_0243,methyltransferase
+B8809_0244,transcriptional regulator
+B8809_0245,hypothetical protein
+B8809_0246,carbohydrate kinase
+B8809_0247,50S ribosomal protein L28
+B8809_0248,ATP-dependent DNA helicase
+B8809_0249,putative methylase
+B8809_0250,tRNA (guanine-N1)-methyltransferase
+B8809_0251,putative protease
+B8809_0252,hypothetical protein
+B8809_0253,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+B8809_0254,pyrrolidone-carboxylate peptidase
+B8809_0255,hypothetical protein
+B8809_0256,aminopeptidase
+B8809_0257,3-deoxy-7-phosphoheptulonate synthase Phe-sensitive
+B8809_0258,phospho-2-dehydro-3-deoxyheptonate aldolase
+B8809_0259,putative nucleosidase
+B8809_0260,two-component sensor kinase
+B8809_0261,two-component response regulator
+B8809_0262,phosphate ABC transporter substrate-binding protein
+B8809_0263,phosphate ABC transporter permease
+B8809_0264,phosphate ABC transporter permease
+B8809_0265,phosphate ABC transporter ATP-binding protein
+B8809_0266,hypothetical protein
+B8809_0267,hypothetical protein
+B8809_0268,putative oxidoreductase
+B8809_0269,inosine-uridine nucleoside hydrolase
+B8809_0270,putative 16S rRNA-processing protein
+B8809_0271,hypothetical protein
+B8809_0272,30S ribosomal protein S16
+B8809_0273,hypothetical protein
+B8809_0274,signal recognition particle protein
+B8809_0275,Co/Zn/Cd cation transport protein
+B8809_0276,cysteinyl-tRNA synthetase
+B8809_0277,Glutamine amidotransferase Class I
+B8809_0278,ABC transporter ATP-binding protein
+B8809_0279,plasmid stabilization protein
+B8809_0280,putative plasmid stabilization protein
+B8809_0281,acetolactate synthase small subunit
+B8809_0282,acetolactate synthase large subunit
+B8809_0283,ribonuclease III
+B8809_0284,LSU ribosomal protein L32P
+B8809_0285,hypothetical protein
+B8809_0286,hypothetical protein
+B8809_0287,phosphopantetheine adenylyltransferase
+B8809_0288,hypothetical protein
+B8809_0289,Oxidoreductase
+B8809_0290,transcriptional regulator
+B8809_0291,hypothetical protein
+B8809_0292,nicotinate phosphoribosyltransferase
+B8809_0293,putative ribonuclease PH
+B8809_0294,hypothetical protein
+B8809_0295,peptidoglycan branched peptide synthesis protein
+B8809_0296,peptidoglycan branched peptide synthesis protein
+B8809_0297,peptidoglycan branched peptide synthesis protein
+B8809_0298,hypothetical protein
+B8809_0299,glucose-6-phosphate isomerase
+B8809_0300,ABC transporter ATP-binding protein
+B8809_0301,ABC transporter permease
+B8809_0302,50S ribosomal protein L19
+B8809_0303,putative signal peptidase
+B8809_0304,ribonuclease HII
+B8809_0305,transcriptional regulator
+B8809_0306,L-ribulokinase
+B8809_0307,D-ribulose-5-phosphate 4-epimerase
+B8809_0308,L-arabinose isomerase
+B8809_0309,peptidase C26
+B8809_0310,putative membrane spanning protein
+B8809_0311,Permease protein of ABC transporter system
+B8809_0312,permease protein of ABC transporter system
+B8809_0313,ABC transporter ATP-binding protein
+B8809_0314,putative long-chain-fatty acid CoA ligase
+B8809_0315,hypothetical protein
+B8809_0316,ATP-binding and permease modules of ABC transporter system
+B8809_0318,Solute-binding protein of ABC transporter system for sugars galactan metabolism
+B8809_0319,ABC transporter permease
+B8809_0320,ABC transporter permease
+B8809_0321,Beta-galactosidase galactan metabolism
+B8809_0322,Transcriptional regulator LacI family galactan metabolism
+B8809_0323,Glycosyl hydrolases family 53 Endogalactanase galactan metabolism
+B8809_0324,25-diketo-D-gluconic acid reductase
+B8809_0325,hypothetical protein
+B8809_0326,hypothetical protein
+B8809_0327,manganese transport protein
+B8809_0328,putative membrane spanning protein
+B8809_0329,Hypothetical protein
+B8809_0330,Undecaprenyl-phosphate galactosephosphotransferase
+B8809_0331,Protein tyrosine phosphatase
+B8809_0332,putative membrane spanning protein
+B8809_0333,Transposase
+B8809_0334,Transposase
+B8809_0335,ATPase
+B8809_0336,transposase
+B8809_0337,hypothetical protein
+B8809_0338,hypothetical protein
+B8809_0339,transposase
+B8809_0340,Hypothetical protein
+B8809_0341,Hypothetical protein
+B8809_0342,transposase
+B8809_0343,transposase
+B8809_0344,hypothetical protein
+B8809_0345,nucleotidyltransferase
+B8809_0346,hypothetical protein
+B8809_0347,hypothetical protein
+B8809_0348,glucose-1-phosphate thymidylyltransferase
+B8809_0349,hypothetical protein
+B8809_0350,RloB-like protein
+B8809_0351,hypothetical protein
+B8809_0352,hypothetical protein
+B8809_0353,Polymerase invovlved in polysaccharide biosynthesis
+B8809_0354,Hypothetical protein
+B8809_0355,Tyrosine kinase
+B8809_0356,hypothetical protein
+B8809_0357,Conserved hypothetical secreted protein with G5 domain
+B8809_0358,Thioredoxin
+B8809_0359,Hypothetical protein
+B8809_0360,alpha/beta hydrolase
+B8809_0361,hypothetical protein
+B8809_0362,glycine cleavage system H protein
+B8809_0363,hypothetical protein
+B8809_0364,protease
+B8809_0365,3-isopropylmalate dehydrogenase
+B8809_0366,putative lipoate protein ligase
+B8809_0367,Crp transcriptional regulator
+B8809_0368,putative penicillin-binding protein
+B8809_0369,putative oxidoreductase
+B8809_0370,dihydroorotate dehydrogenase
+B8809_0371,Transcriptional regulator DeoR family
+B8809_0372,galactose-1-phosphate uridylyltransferase
+B8809_0373,Galactokinase
+B8809_0374,Conserved hypothetical protein with ACT domain
+B8809_0375,hypothetical protein
+B8809_0376,RNA methyltransferase
+B8809_0377,putative adenine glycosylase
+B8809_0378,hypothetical protein
+B8809_0379,DNA-directed RNA polymerase subunit beta
+B8809_0380,DNA-directed RNA polymerase subunit beta'
+B8809_0381,hypothetical protein
+B8809_0382,hypothetical protein
+B8809_0383,protein phosphatase PrpC
+B8809_0384,hypothetical protein
+B8809_0385,hypothetical protein
+B8809_0386,putative ATPase
+B8809_0387,Fibronectin type III domain
+B8809_0388,putative kinase
+B8809_0389,hypothetical protein
+B8809_0390,DNA helicase
+B8809_0391,putative transport protein
+B8809_0392,Dihydrodipicolinate reductase
+B8809_0393,dihydrodipicolinate synthase
+B8809_0394,hypothetical protein
+B8809_0395,aminopeptidase
+B8809_0396,hypothetical protein
+B8809_0397,hypothetical protein
+B8809_0398,phosphomannomutase
+B8809_0399,peptide deformylase
+B8809_0400,hypothetical protein
+B8809_0401,peptide chain release factor
+B8809_0402,cell division ATP-binding protein
+B8809_0403,cell division protein
+B8809_0404,hypothetical protein
+B8809_0405,SsrA-binding protein
+B8809_0406,putative ABC transporter substrate binding component
+B8809_0407,putative ABC transporter substrate binding component
+B8809_0408,putative ABC transporter permease
+B8809_0409,putative ABC transporter ATP-binding protein
+B8809_0410,D-fructose-6-phosphate amidotransferase
+B8809_0411,Ribosomal large subunit pseudouridine synthase D
+B8809_0412,Transcriptional regulator LacI family
+B8809_0413,ABC transporter permease protein
+B8809_0414,Permease protein of ABC transporter system for sugars galactan metabolism
+B8809_0415,Beta-galactosidase
+B8809_0416,Transcriptional regulator LacI family
+B8809_0417,alpha-L-arabinofuranosidase
+B8809_0418,sugars ABC transporter substrate-binding protein
+B8809_0419,Solute-binding protein of ABC transporter system for sugars
+B8809_0420,sugar ABC transporter substrate binding component
+B8809_0421,Tanscriptional regulator
+B8809_0422,Solute-binding protein of ABC transporter system for peptides
+B8809_0423,Permease protein of ABC transporter system for peptides
+B8809_0424,Permease protein of ABC transporter system for peptides
+B8809_0425,ATP-binding protein of ABC transporter system for peptides
+B8809_0426,peptides ABC transporter ATP-binding component
+B8809_0427,cysteine synthase
+B8809_0428,Cystathionine gamma-synthase
+B8809_0429,hypothetical protein
+B8809_0430,ATP-dependent DNA helicase RecQ
+B8809_0431,Autoinducer-2 production protein luxS
+B8809_0432,hypothetical protein
+B8809_0433,putative amino acid transport protein
+B8809_0434,Alanine racemase
+B8809_0435,deoxyguanosinetriphosphate triphosphohydrolase
+B8809_0436,DNA primase
+B8809_0437,Pyridoxine biosynthesis protein
+B8809_0438,putative amidotransferase
+B8809_0439,putative amidotransferase
+B8809_0440,L-asparagineamidohydrolase
+B8809_0441,putative membrane spanning protein possible citrate transporter
+B8809_0442,hypothetical protein
+B8809_0443,alpha-L-arabinofuranosidase
+B8809_0444,transcriptional regulator
+B8809_0445,putative transcriptional regulator
+B8809_0446,ABC transporter ATP-binding protein
+B8809_0447,hypothetical protein
+B8809_0448,Permease protein of ABC transporter system
+B8809_0449,1-deoxy-D-xylulose-5-phosphate synthase
+B8809_0450,alcohol dehydrogenase
+B8809_0451,phosphoribosylaminoimidazole carboxylase catalytic subunit
+B8809_0452,Phosphoribosylaminoimidazole carboxylase NCAIR mutase subunit
+B8809_0453,Ferric uptake regulation protein
+B8809_0454,Solute binding protein of ABC transporter system
+B8809_0455,hypothetical protein
+B8809_0456,aldehyde dehydrogenase
+B8809_0457,Phosphoribosylamine--glycine ligase
+B8809_0458,phosphoribosylaminoimidazole synthase
+B8809_0459,Amidophosphoribosyltransferase
+B8809_0460,amidophosphoribosyltransferase
+B8809_0461,amino acid ABC transporter ATP-binding protein
+B8809_0462,amino acid ABC transporter permease component
+B8809_0463,amino acid ABC transporter substrate-binding protein
+B8809_0464,hypothetical protein
+B8809_0465,putative chlorohydrolase
+B8809_0466,S-adenosyl-L-homocysteine hydrolase
+B8809_0467,ImpB/MucB/SamB family protein involved in DNA repair
+B8809_0468,hypothetical protein
+B8809_0469,LysR family transcriptional regulator
+B8809_0470,Na+/H+ antiporter
+B8809_0471,putative membrane spanning protein
+B8809_0472,Hypothetical protein
+B8809_0473,Carboxylesterase or lipase
+B8809_0474,phosphoribosylformylglycinamidine synthase
+B8809_0475,phosphoribosylaminoimidazolesuccinocarboxamide synthase
+B8809_0476,phosphoribosylglycinamide formyltransferase
+B8809_0477,putative glycosyltransferase
+B8809_0478,hypothetical protein
+B8809_0479,Transporter Sodium/bile acid symporter family macrolide-resistance protein
+B8809_0480,hypothetical protein
+B8809_0481,SSU ribosomal protein S12P
+B8809_0482,SSU ribosomal protein S7P
+B8809_0483,elongation factor G
+B8809_0484,Protein Translation Elongation Factor Tu (EF-TU)
+B8809_0485,Hypothetical protein
+B8809_0486,Transcriptional regulator LysR family
+B8809_0487,Conserved hypothetical membrane spanning protein
+B8809_0488,hypothetical protein
+B8809_0489,hypothetical protein
+B8809_0490,CrcB family protein
+B8809_0491,Alcohol dehydrogenase
+B8809_0492,Conserved hypothetical protein predicted ATPase AAA family
+B8809_0493,hypothetical protein
+B8809_0494,MarR family transcriptioanl regulator
+B8809_0495,2-keto-3-deoxy-6-phosphogluconate aldolase
+B8809_0496,ATPase
+B8809_0497,hypothetical protein
+B8809_0498,excinuclease ATPase subunit
+B8809_0499,hypothetical protein
+B8809_0500,DNA-(apurinic or apyrimidinic site) lyase endonuclease III base excision repair
+B8809_0501,Galactoside O-acetyltransferase
+B8809_0502,galactoside O-acetyltransferase
+B8809_0503,putative transport protein
+B8809_0504,beta-galactosidase
+B8809_0505,glutamine synthase
+B8809_0506,hypothetical protein
+B8809_0507,dihydrolipoamide dehydrogenase
+B8809_0508,hypothetical protein
+B8809_0509,hypothetical protein
+B8809_0510,hypothetical protein
+B8809_0511,ABC transporter ATP-binding protein
+B8809_0512,ABC transporter permease
+B8809_0513,putative rRNA methylase
+B8809_0514,phenylalanyl-tRNA synthase alpha subunit
+B8809_0515,phenylalanyl-tRNA synthase beta subunit
+B8809_0516,hypothetical protein
+B8809_0517,N-acetyl-gamma-glutamyl-phosphate reductase
+B8809_0518,ornithine acetyltransferase/N-acetylglutamate synthase protein
+B8809_0519,acetylglutamate kinase
+B8809_0520,acetylornithine aminotransferase
+B8809_0521,Ornithine carbamoyltransferase
+B8809_0522,arginine repressor
+B8809_0523,argininosuccinate synthase
+B8809_0524,argininosuccinate lyase
+B8809_0525,hypothetical protein
+B8809_0526,Thiazole biosynthesis protein thiG
+B8809_0527,thiamine biosynthesis protein
+B8809_0528,hypothetical protein
+B8809_0529,hypothetical protein
+B8809_0530,hypothetical protein
+B8809_0531,tyrosyl-tRNA synthase
+B8809_0532,Hypothetical protein
+B8809_0533,hypothetical protein
+B8809_0534,hypothetical protein
+B8809_0535,hypothetical protein
+B8809_0536,TrkA family potassium uptake protein
+B8809_0537,TrkH family potassium uptake protein
+B8809_0538,kinase
+B8809_0539,DNA repair protein RecN
+B8809_0540,Haloacid dehalogenase-like hydrolase (HAD superfamily)
+B8809_0541,Transcriptional regulator GntR family
+B8809_0542,ATP-binding protein of ABC transporter system
+B8809_0543,putative membrane spanning protein
+B8809_0544,Hypothetical protein
+B8809_0545,cation-transporting ATPase PacL
+B8809_0546,threonine synthase
+B8809_0547,serine hydroxymethyltransferase
+B8809_0548,gamma-glutamyl phosphate reductase
+B8809_0549,hypothetical protein
+B8809_0550,nicotinic acid mononucleotide adenyltransferase
+B8809_0551,putative beta-hexosaminidase
+B8809_0552,hypothetical protein
+B8809_0553,putative acetyltransferase
+B8809_0554,peptidyl-tRNA hydrolase
+B8809_0555,transcription-repair coupling factor
+B8809_0556,putative oxidoreductase
+B8809_0557,enolase
+B8809_0558,hypothetical protein
+B8809_0559,hypothetical protein
+B8809_0560,putative exopolyphosphatase
+B8809_0561,hypothetical protein
+B8809_0562,L-serine dehydratase
+B8809_0563,peptidyl-prolyl isomerase
+B8809_0564,transcription elongation factor GreA
+B8809_0565,hypothetical protein
+B8809_0566,hypothetical protein
+B8809_0567,Sensory transduction protein kinase
+B8809_0568,transcriptional regulator
+B8809_0569,hypothetical protein
+B8809_0570,hypothetical protein
+B8809_0571,putative transcriptional regulator
+B8809_0572,hypothetical protein
+B8809_0573,hypothetical protein
+B8809_0574,hypothetical protein
+B8809_0575,hypothetical protein
+B8809_0576,hypothetical protein
+B8809_0577,UmuD protein
+B8809_0578,two-component sensor kinase
+B8809_0579,two-component response regulator
+B8809_0580,glycosyl hydrolase
+B8809_0581,putative transcriptional regulator
+B8809_0582,2-C-methyl-D-erythritol 24-cyclo diphosphate synthase
+B8809_0583,ABC transporter permease
+B8809_0584,ABC transporter ATP-binding protein
+B8809_0585,ABC transporter substrate binding component
+B8809_0586,methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+B8809_0587,30S ribosomal protein S1
+B8809_0588,Dephospho-CoA kinase
+B8809_0589,Excinuclease ABC subunit B involved in nucleotide excision repair
+B8809_0590,hypothetical protein
+B8809_0591,pyruvate kinase
+B8809_0592,ADP-ribose pyrophosphatase
+B8809_0593,two-component response regulator
+B8809_0594,DNA polymerase I
+B8809_0595,hypothetical protein
+B8809_0596,hypothetical protein
+B8809_0597,putative isoamylase
+B8809_0598,Hypothetical protein
+B8809_0599,hypothetical protein
+B8809_0600,hypothetical protein
+B8809_0601,3-methyladenine DNA glycosylase
+B8809_0602,hypothetical protein
+B8809_0603,hypothetical protein
+B8809_0604,hypothetical protein
+B8809_0605,transposase
+B8809_0606,Restriction endonuclease%2C EcoRII
+B8809_0607,cytosine methyl transferase
+B8809_0608,hypothetical protein
+B8809_0609,Transposase
+B8809_0610,Transposase
+B8809_0611,beta-galactosidase
+B8809_0612,hypothetical protein
+B8809_0613,galactoside transport protein
+B8809_0614,beta-galactosidase
+B8809_0615,Conserved hypothetical membrane spanning protein
+B8809_0616,3-phosphoshikimate 1-carboxyvinyltransferase
+B8809_0617,Acetate kinase
+B8809_0618,Phosphate acetyltransferase
+B8809_0619,hypothetical protein
+B8809_0620,hypothetical protein
+B8809_0621,UDP-N-acetylglucosamine pyrophosphorylase
+B8809_0622,ribose-phosphate pyrophosphokinase
+B8809_0623,putative acyltransferase
+B8809_0624,ATP-dependent Zn protease
+B8809_0625,hypothetical protein
+B8809_0626,endonuclease
+B8809_0627,hypothetical protein
+B8809_0628,hypothetical protein
+B8809_0629,permease
+B8809_0630,transposase
+B8809_0631,Transposase
+B8809_0632,IS21 family transposase
+B8809_0633,low molecular weight phosphotyrosine protein phosphatase
+B8809_0634,arsenic transporter
+B8809_0635,GMP synthase
+B8809_0636,Xylulose-5-phosphate/Fructose-6-phosphate phosphoketolase
+B8809_0637,Hydrolase (HAD superfamily)
+B8809_0638,putative metal ABC transporter substrate binding component
+B8809_0639,putative metal ABC transporter ATP-binding component
+B8809_0640,putative metal ABC transporter permease component
+B8809_0641,hypothetical protein
+B8809_0642,NAD+ synthase
+B8809_0643,hypothetical protein
+B8809_0644,Formate acetyltransferase
+B8809_0645,Pyruvate formate-lyase activating enzyme
+B8809_0646,hypothetical protein
+B8809_0647,putative exonuclease
+B8809_0648,trigger factor
+B8809_0649,hypothetical protein
+B8809_0650,hypothetical protein
+B8809_0651,ATP-dependent Clp protease proteolytic subunit
+B8809_0652,ATP-dependent Clp protease proteolytic subunit
+B8809_0653,ATP-dependent Clp protease ATP-binding subunit
+B8809_0654,putative Na+/H+ antiporter
+B8809_0655,hypothetical protein
+B8809_0656,putative methyltransferase
+B8809_0657,succinate dehydrogenase iron-sulfur subunit
+B8809_0658,succinate dehydrogenase flavoprotein subunit
+B8809_0659,hypothetical protein
+B8809_0660,hypothetical protein
+B8809_0661,hypothetical protein
+B8809_0662,Pyridoxine kinase
+B8809_0663,O-acetylhomoserine (thiol)-lyase
+B8809_0664,putative ABC transporter ATP-binding protein
+B8809_0665,transporter
+B8809_0666,response regulator of two-component system
+B8809_0667,histidine kinase sensor of two-component system
+B8809_0668,proline iminopeptidase
+B8809_0669,pyrroline-5-carboxylate reductase
+B8809_0670,GTP-dependent nucleic acid-binding protein EngD
+B8809_0671,hypothetical protein
+B8809_0672,Multidrug resistance protein B MFS member bile efflux induced upon bile salt exposure
+B8809_0673,Macrolide-efflux protein MSF member
+B8809_0674,Serine/threonine protein kinase
+B8809_0675,hypothetical protein
+B8809_0676,Conserved hypothetical membrane spanning protein
+B8809_0677,hypothetical protein
+B8809_0678,Conserved hypothetical membrane spanning protein
+B8809_0679,Conserved hypothetical secreted protein with excalibur domain
+B8809_0680,hypothetical protein
+B8809_0681,Hypothetical protein
+B8809_0682,hypothetical protein
+B8809_0683,uracil-xanthine transport protein
+B8809_0684,putative ATP-dependent RNA helicase
+B8809_0685,tetR family transcriptional regulator
+B8809_0686,putative neopullalanase
+B8809_0687,carbon starvation protein A
+B8809_0688,hypothetical protein
+B8809_0689,phosphate transport protein
+B8809_0690,hypothetical protein
+B8809_0691,Response regulator of two-component system
+B8809_0692,Histidine kinase sensor of two-component system
+B8809_0693,ATP-binding protein of ABC transporter system
+B8809_0694,putative membrane spanning protein probabbly ABC-type transporter
+B8809_0695,ABC permease
+B8809_0696,putative transcriptional regulator
+B8809_0697,putative amidase
+B8809_0698,hypothetical protein
+B8809_0699,hypothetical protein
+B8809_0700,Hydrolase alpha/beta fold family
+B8809_0701,hypothetical protein
+B8809_0702,Transcriptional regulator
+B8809_0703,xanthine/uracil transport protein
+B8809_0704,xanthine phosphoribosyltransferase
+B8809_0705,ATP-dependent DNA helicase pcrA
+B8809_0706,hypothetical protein
+B8809_0707,putative ABC transporter permease
+B8809_0708,putative ABC transporter ATP-binding protein
+B8809_0709,30S ribosomal protein S4
+B8809_0710,acyltransferase
+B8809_0711,Phosphoglycerate mutase family protein
+B8809_0712,hypothetical protein
+B8809_0713,hypothetical protein
+B8809_0714,alanyl-tRNA synthase
+B8809_0715,putative endonuclease
+B8809_0716,hypothetical protein
+B8809_0717,tadV
+B8809_0718,chorismate synthase
+B8809_0719,shikimate kinase
+B8809_0720,3-dehydroquinate dehydratase
+B8809_0721,dipeptidase
+B8809_0722,CTP synthase
+B8809_0723,Conserved hypothetical protein with ErfK/YbiS/YcfS/YnhG domain
+B8809_0724,putative ABC transporter permease
+B8809_0725,putative ABC transporter permease
+B8809_0726,putative ABC transporter ATP-binding protein
+B8809_0727,aminotransferase
+B8809_0728,hypothetical protein
+B8809_0729,hypothetical protein
+B8809_0730,Glucose-1-phosphate adenylyltransferase
+B8809_0731,putative RNA methyltransferase
+B8809_0732,hypothetical protein
+B8809_0733,hypothetical protein
+B8809_0734,putative phosphate starvation-inducible protein
+B8809_0735,hypothetical protein
+B8809_0736,hypothetical protein
+B8809_0737,GTP-binding protein
+B8809_0738,long-chain-fatty-acid-CoA ligase
+B8809_0739,NAD(P) transhydrogenase alpha-1 subunit
+B8809_0740,NAD(P) transhydrogenase alpha subunit
+B8809_0741,NAD(P) transhydrogenase beta subunit
+B8809_0742,hypothetical protein
+B8809_0743,50S ribosomal protein L25
+B8809_0744,Branched-chain amino acid aminotransferase
+B8809_0745,putative pyrophosphatase
+B8809_0746,hypothetical protein
+B8809_0747,30S ribosomal protein S20
+B8809_0748,GTP-binding protein lepA
+B8809_0749,GTP-binding protein LepA
+B8809_0750,Coproporphyrinogen oxidase (NAD)
+B8809_0751,LacI family transcriptional regulator
+B8809_0752,glycerate kinase
+B8809_0753,Na+ driven multidrug efflux pump
+B8809_0754,hypothetical protein
+B8809_0755,transcriptional regulator
+B8809_0756,hypothetical protein
+B8809_0757,hypothetical protein
+B8809_0758,dihydrodipicolinate reductase
+B8809_0759,transcriptional regulator
+B8809_0760,glutamate synthase subunit alpha
+B8809_0761,glutamate synthase beta subunit
+B8809_0762,ABC transporter substrate binding component
+B8809_0763,hypothetical protein
+B8809_0764,putative membrane spanning protein
+B8809_0765,putative glycosyltransferase
+B8809_0766,ATP-binding protein of ABC transporter system
+B8809_0767,putative hydrolase
+B8809_0768,hydrolase carbon-nitrogen family
+B8809_0769,Thioredoxin peroxidase
+B8809_0770,hypothetical protein
+B8809_0771,transposase
+B8809_0772,IstB domain protein ATP-binding protein
+B8809_0773,IS21 family transposase
+B8809_0776,putative phage integrase
+B8809_0777,putative phage integrase
+B8809_0778,tyrosine recombinase XerD
+B8809_0779,IS21 family transposase
+B8809_0780,Transposase
+B8809_0781,integrase
+B8809_0782,integrase
+B8809_0783,hypothetical protein
+B8809_0784,transcriptional regulator
+B8809_0785,hypothetical protein
+B8809_0786,alcohol dehydrogenase
+B8809_0787,lipase/esterase
+B8809_0788,oxidoreductase
+B8809_0789,hypothetical protein
+B8809_0790,Conserved hypothetical protein with phospholipase/carboxylesterase domain
+B8809_0791,putative methyltransferase
+B8809_0792,putative phosphoglycerate
+B8809_0793,5-methyltetrahydropteroyltriglutamate-- homocysteine methyltransferase
+B8809_0794,Methylenetetrahydrofolate reductase
+B8809_0795,Choloylglycine hydrolase
+B8809_0796,Glutamate-ammonia-ligase adenylyltransferase
+B8809_0797,aspartate carbamoyltransferase catalytic subunit
+B8809_0798,Aspartate carbamoyltransferase
+B8809_0799,dihydroorotase
+B8809_0800,orotidine 5'-phosphate decarboxylase
+B8809_0801,putative dihydroorotate dehydrogenase electron transfer subunit
+B8809_0802,dihydroorotate dehydrogenase
+B8809_0803,orotate phosphoribosyltransferase
+B8809_0804,hypothetical protein
+B8809_0805,hypothetical protein
+B8809_0806,Transcriptional regulator LysR family
+B8809_0807,putative hydrolase
+B8809_0808,putative carbohydrate kinase
+B8809_0809,aspartate aminotransferase
+B8809_0810,putative helicase
+B8809_0811,hypothetical protein
+B8809_0812,hypothetical protein
+B8809_0813,hypothetical protein
+B8809_0814,putative membrane spanning protein
+B8809_0815,Hypothetical protein
+B8809_0816,signal peptidase I
+B8809_0817,Amino acid permease
+B8809_0818,hypothetical protein
+B8809_0819,hypothetical protein
+B8809_0820,putative amidohydrolase
+B8809_0821,putative secreted protein
+B8809_0822,hypothetical protein
+B8809_0823,hypothetical protein
+B8809_0824,hypothetical protein
+B8809_0825,putative membrane spanning protein
+B8809_0826,ATP-binding protein of ABC transporter system
+B8809_0827,Permease
+B8809_0828,Two component system histidine kinase
+B8809_0829,putative two-component response regulator
+B8809_0830,transposase
+B8809_0831,IS1603 transposase
+B8809_0832,Lantibiotic transport ATP-binding protein
+B8809_0833,hypothetical protein
+B8809_0834,putative membrane spanning protein
+B8809_0835,hypothetical protein
+B8809_0836,putative two-component sensor kinase
+B8809_0837,Two-component response regulator
+B8809_0838,ATP-binding protein of ABC transporter system
+B8809_0839,hypothetical protein
+B8809_0840,hypothetical protein
+B8809_0841,hypothetical protein
+B8809_0842,Acetyltransferase (GNAT) family
+B8809_0843,Acetyltransferase (GNAT) family
+B8809_0844,Conserved hypothetical protein with DUF984 domain
+B8809_0845,Abortive infection protein AbiEi
+B8809_0846,Abortive infection protein AbiEi
+B8809_0847,VanZ family protein
+B8809_0848,Amino acid permease
+B8809_0849,Endonuclease IV
+B8809_0850,TrpB/TrpC bifunctional protein includes tryptophan synthase beta chain and indole-3-glycerol phosph
+B8809_0851,Tryptophan synthase alpha chain
+B8809_0852,prolipoprotein diacylglyceryl transferase
+B8809_0853,ribulose-phosphate 3-epimerase
+B8809_0854,phosphoribosyl-ATP pyrophosphatase
+B8809_0855,ATP phosphoribosyltransferase
+B8809_0856,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+B8809_0857,hypothetical protein
+B8809_0858,hypothetical protein
+B8809_0859,hypothetical protein
+B8809_0860,hypothetical protein
+B8809_0861,hypothetical protein
+B8809_0862,hypothetical protein
+B8809_0863,putative membrane spanning protein
+B8809_0864,Hydrolase or phosphatase
+B8809_0865,hypothetical protein
+B8809_0866,putative helicase
+B8809_0867,hypothetical protein
+B8809_0868,hypothetical protein
+B8809_0869,UTP-glucose-1-phosphate uridylyltransferase
+B8809_0870,GTP-binding protein
+B8809_0871,pseudouridine synthase
+B8809_0872,hypothetical protein
+B8809_0873,hypothetical protein
+B8809_0874,Phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+B8809_0875,hypothetical protein
+B8809_0876,Succinyl-CoA synthetase alpha chain
+B8809_0877,Succinyl-CoA synthetase beta chain
+B8809_0878,Adenine phosphoribosyltransferase
+B8809_0879,Protein translocase subunit YajC
+B8809_0880,Holliday junction DNA helicase ruvB
+B8809_0881,Holliday junction DNA helicase ruvA
+B8809_0882,Crossover junction endodeoxyribonuclease ruvC
+B8809_0883,Conserved hypothetical protein with DUF28
+B8809_0884,hypothetical protein
+B8809_0885,Threonyl-tRNA synthetase
+B8809_0886,hypothetical protein
+B8809_0887,undecaprenyl-diphosphatase
+B8809_0888,hypothetical protein
+B8809_0889,chaperone protein
+B8809_0890,heat-inducible transcriptional repressor
+B8809_0891,transketolase
+B8809_0892,Transaldolase
+B8809_0893,Branched chain amino acid transport system II carrier protein
+B8809_0894,putative membrane spanning protein
+B8809_0895,putative aminotransferase
+B8809_0896,hypothetical protein
+B8809_0897,L-lactate dehydrogenase
+B8809_0898,Protein translocase subunit secG
+B8809_0899,triosephosphate isomerase
+B8809_0900,phosphoglycerate kinase
+B8809_0901,hypothetical protein
+B8809_0902,hypothetical protein
+B8809_0903,putative shikimate 5-dehydrogenase
+B8809_0904,excinuclease ABC subunit C
+B8809_0905,excinuclease ABC subunit A
+B8809_0906,hypothetical protein
+B8809_0907,hypothetical protein
+B8809_0908,hypothetical protein
+B8809_0909,hypothetical protein
+B8809_0910,hypothetical protein
+B8809_0911,Hypothetical protein
+B8809_0912,cobalt ABC transporter permease
+B8809_0913,ABC transporter ATP-binding protein
+B8809_0914,hypothetical protein
+B8809_0915,hypothetical protein
+B8809_0916,putative dehydrogenase
+B8809_0917,ABC transporter ATP-binding protein
+B8809_0918,hypothetical protein
+B8809_0919,anthranilate synthase component
+B8809_0920,phosphoribosyl-AMP cyclohydrolase
+B8809_0921,imidazole glycerol phosphate synthase subunit HisF
+B8809_0922,ThiJ/PfpI domain-containing protein
+B8809_0923,hypothetical protein
+B8809_0924,Phosphatidate cytidylyltransferase
+B8809_0925,ribosome recycling factor
+B8809_0926,uridylate kinase
+B8809_0927,elongation factor Ts
+B8809_0928,30S ribosomal protein S2
+B8809_0929,polypeptide deformylase
+B8809_0930,putative long-chain-fatty acid CoA ligase
+B8809_0931,hypothetical protein
+B8809_0932,inositol-5-monophosphate dehydrogenase
+B8809_0933,isocitrate dehydrogenase
+B8809_0934,hypothetical protein
+B8809_0935,hypothetical protein
+B8809_0936,Putative transcriptional regulator
+B8809_0937,hypothetical protein
+B8809_0938,Hypothetical protein
+B8809_0939,Hypothetical protein
+B8809_0940,hypothetical protein
+B8809_0941,Hypothetical protein
+B8809_0942,Transcription factor WhiB family
+B8809_0943,CobQ/CobB/MinD/ParA nucleotide binding domain protein
+B8809_0944,Hypothetical protein
+B8809_0945,Chromosome partitioning protein parA
+B8809_0946,Hypothetical protein
+B8809_0947,Hypothetical protein
+B8809_0948,LPXTG-motif cell wall anchor domain protein
+B8809_0949,putative cell surface protein
+B8809_0950,hypothetical protein
+B8809_0951,hypothetical protein
+B8809_0952,hypothetical protein
+B8809_0953,hypothetical protein
+B8809_0954,hypothetical protein
+B8809_0955,ABC transporter ATP-binding protein
+B8809_0956,hypothetical protein
+B8809_0957,ATP-binding protein
+B8809_0958,adenine-specific DNA methyltransferase
+B8809_0959,hypothetical protein
+B8809_0960,hypothetical protein
+B8809_0961,hypothetical protein
+B8809_0962,hypothetical protein
+B8809_0963,hypothetical protein
+B8809_0964,Hypothetical protein
+B8809_0965,LPXTG-motif cell wall anchor domain protein
+B8809_0966,Hypothetical protein
+B8809_0967,Serine-rich Hypothetical protein
+B8809_0968,Hypothetical protein
+B8809_0969,Hypothetical protein
+B8809_0970,Hypothetical protein
+B8809_0971,Hypothetical protein
+B8809_0972,putative ATPase
+B8809_0973,Hypothetical protein
+B8809_0974,Hypothetical protein
+B8809_0975,Hypothetical protein
+B8809_0976,Type IV secretory system%2C TraG
+B8809_0977,Hypothetical protein
+B8809_0978,Hypothetical protein
+B8809_0979,hypothetical protein
+B8809_0980,HipA domain-containing protein
+B8809_0981,Putative relaxase
+B8809_0982,Fic/DOC family protein
+B8809_0983,EcoRII type II restriction modification endonuclease
+B8809_0984,hypothetical protein
+B8809_0985,HipA-like C-terminal domain protein
+B8809_0986,Putative bacterial mobilization protein (MobC)
+B8809_0987,Hypothetical protein
+B8809_0988,Putative topoisomerase
+B8809_0989,Hypothetical protein
+B8809_0990,Hypothetical protein
+B8809_0991,Hypothetical protein
+B8809_0992,Conjugal transfer TraG-like protein
+B8809_0993,hypothetical protein
+B8809_0994,Putative antirestriction (ArdA) protein
+B8809_0995,Hypothetical protein
+B8809_0996,HipA-like C-terminal domain protein
+B8809_0997,Fic family protein
+B8809_0998,Hypothetical protein
+B8809_0999,hypothetical protein
+B8809_1000,Hypothetical protein
+B8809_1001,Phage integrase
+B8809_1002,O-sialoglycoprotein endopeptidase
+B8809_1003,putative ribosomal-protein-alanine N-acetyltransferase
+B8809_1004,Glycoprotease protein family
+B8809_1005,hypothetical protein
+B8809_1006,DNA polymerase III subunit delta
+B8809_1007,prolidase (X-Pro dipeptidase)
+B8809_1008,hypothetical protein
+B8809_1009,hypothetical protein
+B8809_1010,leucyl-tRNA synthetase
+B8809_1011,ABC transporter substrate binding component
+B8809_1012,putative magnesium and cobalt transport protein
+B8809_1013,putative phosphoglycerate mutase
+B8809_1014,hypothetical protein
+B8809_1015,Pyridoxamine 5'-phosphate oxidase pdxH
+B8809_1016,hypothetical protein
+B8809_1017,hypothetical protein
+B8809_1018,Peptidyl-prolyl cis-trans isomerase
+B8809_1019,Hypothetical protein
+B8809_1020,Hypothetical protein
+B8809_1021,putative phage integrase
+B8809_1022,putative phage integrase
+B8809_1023,tyrosine recombinase XerD
+B8809_1024,transposase
+B8809_1025,GTP pyrophosphokinase
+B8809_1026,Deoxyuridine 5'-triphosphate nucleotidohydrolase
+B8809_1027,hypothetical protein
+B8809_1028,hypothetical protein
+B8809_1029,hypothetical protein
+B8809_1030,DNA topoisomerase IV subunit A
+B8809_1031,hypothetical protein
+B8809_1032,ATP-dependent helicase
+B8809_1033,putative ribokinase
+B8809_1034,hypothetical protein
+B8809_1035,DNA topoisomerase IV subunit B
+B8809_1036,RNA polymerase sigma factor RpoD
+B8809_1037,hypothetical protein
+B8809_1038,isoprenyl diphosphate synthase
+B8809_1039,putative serine-threonine protein kinase
+B8809_1040,putative acyltransferase
+B8809_1041,putative membrane spanning protein
+B8809_1042,hypothetical protein
+B8809_1043,Anthranilate phosphoribosyltransferase
+B8809_1044,transposase
+B8809_1045,IS1557 family transposase
+B8809_1046,preprotein translocase subunit SecA
+B8809_1047,hypothetical protein
+B8809_1048,hypothetical protein
+B8809_1049,RecX-like protein
+B8809_1050,recombinase RecA
+B8809_1051,hypothetical protein
+B8809_1052,transcriptional regulator
+B8809_1053,putative competence-damage inducible protein
+B8809_1054,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+B8809_1055,cell division protein FtsK
+B8809_1056,cell division protein
+B8809_1057,tRNA delta(2)-isopentenylpyrophosphate transferase
+B8809_1058,hypothetical protein
+B8809_1059,GTP pyrophosphokinase
+B8809_1060,hypothetical protein
+B8809_1061,hypothetical protein
+B8809_1062,hypothetical protein
+B8809_1063,atypical histidine kinase sensor of two-component system
+B8809_1064,Transcriptional regulatory protein
+B8809_1065,putative acetyltransferase
+B8809_1066,hypothetical protein
+B8809_1067,hypothetical protein
+B8809_1068,hypothetical protein
+B8809_1069,hypothetical protein
+B8809_1070,aconitate hydratase
+B8809_1071,putative cation-transporting ATPase
+B8809_1072,hypothetical protein
+B8809_1073,putative methyltransferase
+B8809_1074,hypothetical protein
+B8809_1075,hypothetical protein
+B8809_1076,Exodeoxyribonuclease III
+B8809_1077,Oligopeptide transport ATP-binding protein oppD
+B8809_1078,Oligopeptide transport system permease protein oppC
+B8809_1079,Oligopeptide transport system permease protein oppB
+B8809_1080,Oligopeptide-binding protein oppA
+B8809_1081,tyrosine recombinase
+B8809_1082,hypothetical protein
+B8809_1083,putative prephenate dehydrogenase
+B8809_1084,putative chorismate mutase
+B8809_1085,putative alcohol dehydrogenase
+B8809_1086,GTP-binding protein
+B8809_1087,putative membrane spanning protein MFS member
+B8809_1088,nicotinate-nucleotide pyrophosphorylase
+B8809_1089,L-aspartate oxidase
+B8809_1090,quinolinate synthase
+B8809_1091,Phosphohydrolase (MutT/nudix family protein)
+B8809_1092,Segregation and condensation protein ScpB
+B8809_1093,hypothetical protein
+B8809_1094,hypothetical protein
+B8809_1095,ABC transporter ATP-binding protein
+B8809_1096,recombinase
+B8809_1097,LSU ribosomal protein L20P
+B8809_1098,50S ribosomal protein L35
+B8809_1099,translation initiation factor IF-3
+B8809_1100,spermine synthase
+B8809_1101,putative thiamine pyrophosphokinase
+B8809_1102,Glyceraldehyde 3-phosphate dehydrogenase
+B8809_1103,hypothetical protein
+B8809_1104,putative 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+B8809_1105,putative aldose-1-epimerase
+B8809_1106,putative aldose-1-epimerase
+B8809_1107,hypothetical protein
+B8809_1108,RNA polymerase sigma factor RpoE
+B8809_1109,UDP-N-acetylmuramoylalanyl-D-glutamate--2 6-diaminopimelate ligase
+B8809_1110,hypothetical protein
+B8809_1111,chromosome partitioning protein Smc
+B8809_1112,folylpolyglutamate synthase
+B8809_1113,hypothetical protein
+B8809_1114,Xaa-Pro aminopeptidase
+B8809_1115,Phosphohydrolase (MutT/nudix family protein)
+B8809_1116,ABC transporter ATP-binding protein
+B8809_1117,ABC transporter permease
+B8809_1118,peptide ABC transporter permease
+B8809_1119,peptide ABC transporter substrate-binding protein OppA
+B8809_1120,N-acetylglucosamine-6-phosphate deacetylase
+B8809_1121,glucosamine-6-phosphate deaminase
+B8809_1122,transcriptional regulator
+B8809_1123,putative sugar kinase
+B8809_1124,putative transcriptional repressor
+B8809_1125,putative sugar kinase
+B8809_1126,hypothetical protein
+B8809_1127,L-fucose permease
+B8809_1128,L-fucose permease
+B8809_1129,Conserved hypothetical protein with DUF1237 domain
+B8809_1130,N-acylglucosamine 2-epimerase family protein
+B8809_1131,Transcriptional regulator LacI family
+B8809_1132,Endo-beta-N-acetylglucosaminidase
+B8809_1133,Beta-glucosidase
+B8809_1134,Hypothetical protein
+B8809_1135,Transporter
+B8809_1136,Sugar transport system permease protein
+B8809_1137,Sugar-binding protein
+B8809_1138,Alpha-mannosidase
+B8809_1139,Alpha-mannosidase
+B8809_1140,D-tyrosyl-tRNA deacylase
+B8809_1141,Hypothetical protein
+B8809_1142,Hypothetical protein
+B8809_1143,cell division protein
+B8809_1144,UDP-N-acetylmuramate--L-alanine ligase
+B8809_1145,N-acetylglucosaminyl transferase
+B8809_1146,putative cell division protein
+B8809_1147,UDP-N-acetylmuramoylalanine--D-glutamate ligase
+B8809_1148,phospho-N-acetylmuramoyl-pentapeptide- transferase
+B8809_1149,UDP-N-acetylmuramoylalanyl-D-glutamyl-2 6-diaminopimelate--D-alanyl-D-alanyl ligase
+B8809_1150,hypothetical protein
+B8809_1151,peptidoglycan synthase
+B8809_1152,hypothetical protein
+B8809_1153,S-adenosyl-methyltransferase
+B8809_1154,hypothetical protein
+B8809_1155,hypothetical protein
+B8809_1156,D-3-phosphoglycerate dehydrogenase
+B8809_1157,hypothetical protein
+B8809_1158,hypothetical protein
+B8809_1159,LexA repressor
+B8809_1160,putative cation efflux protein
+B8809_1161,L-lactate dehydrogenase
+B8809_1162,GTP-binding protein
+B8809_1163,16S RNA methylase
+B8809_1164,ATP-dependent helicase
+B8809_1165,hypothetical protein
+B8809_1166,Conserved hypothetical membrane spanning protein
+B8809_1167,glutamine synthase
+B8809_1168,hypothetical protein
+B8809_1169,1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+B8809_1170,imidazole glycerol phosphate synthase subunit HisH
+B8809_1171,hypothetical protein
+B8809_1172,Imidazoleglycerol-phosphate dehydratase
+B8809_1173,histidinol-phosphate aminotransferase
+B8809_1174,histidinol dehydrogenase
+B8809_1175,acylphosphatase
+B8809_1176,putative carbohydrate kinase
+B8809_1177,putative reductase
+B8809_1178,acyltransferase
+B8809_1179,hypothetical protein
+B8809_1180,hypothetical protein
+B8809_1181,DNA polymerase III subunit alpha
+B8809_1182,transposase
+B8809_1183,hypothetical protein
+B8809_1184,hypothetical protein
+B8809_1185,hypothetical protein
+B8809_1186,hypothetical protein
+B8809_1187,IS21 family transposase
+B8809_1188,Transposase
+B8809_1189,hypothetical protein
+B8809_1190,hypothetical protein
+B8809_1191,putative ATP-dependent nuclease subunit A
+B8809_1192,putative ATP-dependent nuclease subunit B
+B8809_1193,putative DNA polymerase III alpha subunit
+B8809_1194,hypothetical protein
+B8809_1195,hypothetical protein
+B8809_1196,Hypothetical protein
+B8809_1197,hypothetical protein
+B8809_1198,putative lipoprotein signal peptidase
+B8809_1199,hypothetical protein
+B8809_1200,hypothetical protein
+B8809_1201,hypothetical protein
+B8809_1202,cell division protein FtsZ
+B8809_1203,putative dihydrouridine synthase
+B8809_1204,glycyl-tRNA synthase
+B8809_1205,Hydroxyethylthiazole kinase
+B8809_1206,Thiamine biosynthesis protein thiC
+B8809_1207,AAA family ATPase
+B8809_1208,Phosphomethylpyrimidine kinase/Hydroxymethylpyrimidine kinase
+B8809_1209,hypothetical protein
+B8809_1210,Transporter MFS superfamily
+B8809_1211,putative membrane spanning protein
+B8809_1212,Neuroserpin precursor
+B8809_1213,Transcriptional regulator LacI family
+B8809_1214,galactoside permease
+B8809_1215,Beta-fructofuranosidase
+B8809_1216,putative ABC transporter permease
+B8809_1217,putative ABC transporter substrate binding component
+B8809_1218,putative nucleoside hydrolase
+B8809_1219,undecaprenyl pyrophosphate synthase
+B8809_1220,DNA repair protein RecO
+B8809_1221,hypothetical protein
+B8809_1222,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+B8809_1223,1-deoxy-D-xylulose 5-phosphate reductoisomerase
+B8809_1224,hypothetical protein
+B8809_1225,hypothetical protein
+B8809_1226,hypothetical protein
+B8809_1227,hypothetical protein
+B8809_1228,putative DNA helicase
+B8809_1229,hypothetical protein
+B8809_1230,hypothetical protein
+B8809_1231,hypothetical protein
+B8809_1232,hypothetical protein
+B8809_1233,Diaminopimelate epimerase
+B8809_1234,glutamate racemase
+B8809_1235,hypothetical protein
+B8809_1236,Conserved hypothetical protein putative secreted protease
+B8809_1237,O-acetylhomoserine aminocarboxypropyltransferase
+B8809_1238,ABC transporter ATP-binding protein
+B8809_1239,Glutaredoxin
+B8809_1240,Cystathionine beta-lyase
+B8809_1241,amino acid ABC transporter substrate-binding protein
+B8809_1242,amino acid ABC transporter ATP-binding protein
+B8809_1243,amino acid ABC transporter permease component
+B8809_1244,putative esterase
+B8809_1245,putative elongation factor
+B8809_1246,putative exonuclease
+B8809_1247,guanylate kinase
+B8809_1248,putative orotidine 5'-phosphate decarboxylase
+B8809_1249,Carbamoyl-phosphate synthase large chain
+B8809_1250,putative orotidine 5'-phosphate decarboxylase
+B8809_1251,carbamoyl phosphate synthase large subunit
+B8809_1252,carbamoyl-phosphate synthase small subunit
+B8809_1253,transcription antitermination factor NusB
+B8809_1254,elongation factor P
+B8809_1255,ATP-binding protein of ABC transporter system
+B8809_1256,Hypothetical membrane spanning protein in uncharacterized protein family (UPF0014)
+B8809_1257,hypothetical protein
+B8809_1258,ABC transporter ATPase
+B8809_1259,trans-aconitate 2-methyltransferase
+B8809_1260,hypothetical protein
+B8809_1261,3-hydroxybutyryl-CoA dehydrogenase
+B8809_1262,alpha-glucosidase
+B8809_1263,sugars ABC transporter substrate-binding protein
+B8809_1264,putative beta-hexosaminidase
+B8809_1265,sugar ABC transporter permease
+B8809_1266,hypothetical protein
+B8809_1267,hypothetical protein
+B8809_1268,DNA ligase
+B8809_1269,hypothetical protein
+B8809_1270,hypothetical protein
+B8809_1271,arylsulfate sulfotransferase
+B8809_1272,ABC transporter ATP-binding protein
+B8809_1273,putative aminotransferase
+B8809_1274,putative glucokinase
+B8809_1275,Nitroreductase family protein
+B8809_1276,putative glycosyltransferase
+B8809_1277,hypothetical protein
+B8809_1278,ABC transporter ATP-binding protein
+B8809_1279,hypothetical protein
+B8809_1280,hypothetical protein
+B8809_1281,hypothetical protein
+B8809_1282,hypothetical protein
+B8809_1283,hypothetical protein
+B8809_1284,transporter
+B8809_1285,sugar ABC transporter permease
+B8809_1286,Putative ribose ABC transporter permease protein
+B8809_1287,ribose transport ATP-binding protein RbsA
+B8809_1288,D-ribose-binding protein rbsB
+B8809_1289,hypothetical protein
+B8809_1290,Signal transduction histidine kinase
+B8809_1291,two-component response regulator
+B8809_1292,recombination factor protein RarA
+B8809_1293,helicase
+B8809_1294,hypothetical protein
+B8809_1295,hypothetical protein
+B8809_1296,hypothetical protein
+B8809_1297,hypothetical protein
+B8809_1298,Glutamate transport system permease protein gluD
+B8809_1299,Glutamate transport system permease protein gluC
+B8809_1300,glutamate ABC transporter substrate binding component
+B8809_1301,glutamate ABC transporter ATP-binding component
+B8809_1302,hypothetical protein
+B8809_1303,aspartyl-tRNA synthase
+B8809_1304,Histidyl-tRNA synthetase
+B8809_1305,hypothetical protein
+B8809_1306,putative 5'-nucleotidase
+B8809_1307,Creatininase
+B8809_1308,Proline/betaine transporter
+B8809_1309,Proline/betaine transporter
+B8809_1310,hypothetical protein
+B8809_1311,Transcriptional regulator
+B8809_1312,Cytosine deaminase
+B8809_1313,Clp protease
+B8809_1314,UspA domain protein
+B8809_1315,hypothetical protein
+B8809_1316,cold shock protein
+B8809_1317,two-component sensor kinase
+B8809_1318,two-component response regulator
+B8809_1319,hypothetical protein
+B8809_1320,hypothetical protein
+B8809_1321,chaperonin GroEL
+B8809_1322,cold shock protein
+B8809_1323,hypothetical protein
+B8809_1324,uracil-DNA glycosylase
+B8809_1325,hypothetical protein
+B8809_1326,hypothetical protein
+B8809_1327,hypothetical protein
+B8809_1328,hypothetical protein
+B8809_1329,hypothetical protein
+B8809_1330,hypothetical protein
+B8809_1331,hypothetical protein
+B8809_1332,hypothetical protein
+B8809_1333,Permease protein of ABC transporter system
+B8809_1334,adenylosuccinate lyase
+B8809_1335,hypothetical protein
+B8809_1336,DNA-binding protein
+B8809_1337,hypothetical protein
+B8809_1338,hypothetical protein
+B8809_1339,putative inositol monophosphatase
+B8809_1340,hypothetical protein
+B8809_1341,putative ATPase
+B8809_1342,hypothetical protein
+B8809_1343,phosphoserine phosphatase
+B8809_1344,primosome assembly protein PriA
+B8809_1345,putative hydrolase
+B8809_1346,methionyl-tRNA formyltransferase
+B8809_1347,dihydroxy-acid dehydratase
+B8809_1348,DNA-directed RNA polymerase subunit omega
+B8809_1349,S-adenosylmethionine synthase
+B8809_1350,type I restriction-modification system specificity determinant
+B8809_1351,phage integrase family protein
+B8809_1352,type I restriction-modification system specificity determinant
+B8809_1353,putative type I restriction-modification system specificity subunit
+B8809_1354,Type I restriction-modification system methyltransferase subunit
+B8809_1355,type I site-specific deoxyribonuclease HsdR family
+B8809_1356,Hypothetical protein
+B8809_1357,Phosphodiesterase I/nucleotide pyrophosphatase
+B8809_1358,isoleucyl-tRNA synthase
+B8809_1359,putative aminotransferase
+B8809_1360,galactoside symporter
+B8809_1361,beta-galactosidase
+B8809_1362,transcriptional regulator
+B8809_1363,hypothetical protein
+B8809_1364,Ribokinase
+B8809_1365,Dicarboxylate transport protein
+B8809_1366,Inosine-uridine preferring nucleoside hydrolase
+B8809_1367,acetyltransferase GNAT family
+B8809_1368,Transcriptional regulator LacI family
+B8809_1369,ATP-binding protein of ABC transporter system
+B8809_1370,ATP-binding protein of ABC transporter system
+B8809_1371,Transcriptional regulator MarR family
+B8809_1372,beta-glucosidase
+B8809_1373,Transcriptional regulator TetR family
+B8809_1374,Glucan 13-beta-glucosidase
+B8809_1375,Beta-glucosidase
+B8809_1376,Transposase
+B8809_1377,Transposase
+B8809_1378,Beta-glucosidase
+B8809_1379,glycosyl hydrolases family 30
+B8809_1380,Glutamate--cysteine ligase
+B8809_1381,hypothetical protein
+B8809_1382,hypothetical protein
+B8809_1383,Activator of (R)-2-hydroxyglutaryl-CoA dehydratase
+B8809_1384,Anaerobic ribonucleoside-triphosphate reductase activating protein
+B8809_1385,ribonucleoside triphosphate reductase
+B8809_1386,exodeoxyribonuclease VII large subunit
+B8809_1387,Exodeoxyribonuclease VII small subunit
+B8809_1388,putative oxidoreductase
+B8809_1389,putative long-chain-fatty-acid--CoA ligase
+B8809_1390,Large-conductance mechanosensitive channel
+B8809_1391,putative nucleoside 2-deoxyribosyltransferase
+B8809_1392,acetyltransferase
+B8809_1393,hypothetical protein
+B8809_1394,Exopolyphosphatase
+B8809_1395,putative aminotransferase
+B8809_1396,putative oxidoreductase
+B8809_1397,putative endonuclease
+B8809_1398,Acetyltransferase
+B8809_1399,hypothetical protein
+B8809_1400,putative helicase
+B8809_1401,hypothetical protein
+B8809_1402,hypothetical protein
+B8809_1403,citrate synthase
+B8809_1404,methionine aminopeptidase
+B8809_1405,hypothetical protein
+B8809_1406,peptidase
+B8809_1407,hypothetical protein
+B8809_1408,prolyl-tRNA synthase
+B8809_1409,hypothetical protein
+B8809_1410,Pyruvate formate-lyase activating enzyme
+B8809_1411,dioxygenase
+B8809_1412,putative helicase
+B8809_1413,Oligoribonuclease
+B8809_1414,Inosine-5'-monophosphate dehydrogenase
+B8809_1415,putative undecaprenyl-phosphate alpha-N-acetylglucosaminyltransferase
+B8809_1416,hypothetical protein
+B8809_1417,galactoside O-acetyltransferase
+B8809_1418,Branched-chain amino acid transport ATP-binding protein livF
+B8809_1419,branched-chain amino acid ABC transporter ATP-binding component
+B8809_1420,branched-chain amino acid ABC transporter permease component
+B8809_1421,branched-chain amino acid ABC transporter permease component
+B8809_1422,Leucine- isoleucine- valine- threonine- and alanine-binding protein
+B8809_1423,Peptide release factor-glutamine N5-methyltransferase
+B8809_1424,peptide chain release factor
+B8809_1425,LSU ribosomal protein L31P
+B8809_1426,putative xylose repressor
+B8809_1427,xylulose kinase
+B8809_1428,hypothetical protein
+B8809_1429,hypothetical protein
+B8809_1430,hypothetical protein
+B8809_1431,putative outer membrane protein
+B8809_1432,galactoside O-acetyltransferase
+B8809_1433,alpha-L-arabinofuranosidase
+B8809_1434,beta-14-xylosidase
+B8809_1435,ABC transporter permease
+B8809_1436,ABC transporter permease
+B8809_1437,lactose ABC transporter substrate-binding protein
+B8809_1438,LacI family transcriptional regulator
+B8809_1439,NADH-dependent butanol dehydrogenase 1
+B8809_1440,xylose isomerase
+B8809_1441,hypothetical protein
+B8809_1442,hypothetical protein
+B8809_1443,hypothetical protein
+B8809_1444,peptide deformylase
+B8809_1445,multidrug resistance protein B
+B8809_1446,hypothetical protein
+B8809_1447,hypothetical protein
+B8809_1448,ribose transporter permease RbsC
+B8809_1449,xylose ABC transporter ATPase
+B8809_1450,hypothetical protein
+B8809_1451,N-acetylglucosamine repressor
+B8809_1452,ribose transport ATP-binding protein RbsA
+B8809_1453,Glucokinase/Xylose repressor
+B8809_1454,ABC transporter ATP-binding protein
+B8809_1455,acyl-CoA thioesterase
+B8809_1456,hypothetical protein
+B8809_1457,hypothetical protein
+B8809_1458,dihydropteroate synthase
+B8809_1459,GTP cyclohydrolase I
+B8809_1460,zinc metallopeptidase
+B8809_1461,hypoxanthine-guanine phosphoribosyltransferase
+B8809_1462,hypothetical protein
+B8809_1463,hypothetical protein
+B8809_1464,hypothetical protein
+B8809_1465,ABC transporter ATP-binding protein
+B8809_1466,hypothetical protein
+B8809_1467,putative transport protein
+B8809_1468,putative glycosyltransferase
+B8809_1469,putative oxidoreductase
+B8809_1470,putative oxidoreductase
+B8809_1471,cyclopropane-fatty-acyl-phospholipid synthase
+B8809_1472,Lactaldehyde reductase
+B8809_1473,cyclopropane-fatty-acyl-phospholipid synthase
+B8809_1474,fucose permease
+B8809_1475,UDP-glucose 4-epimerase
+B8809_1476,tRNA (guanine-N(7)-)-methyltransferase
+B8809_1477,branched-chain amino acid transport
+B8809_1478,branched-chain amino acid permease
+B8809_1479,phosphatase
+B8809_1480,dihydrofolate reductase
+B8809_1481,thymidylate synthase
+B8809_1482,hypothetical protein
+B8809_1483,UspA domaine protein
+B8809_1484,hypothetical protein
+B8809_1485,hypothetical protein
+B8809_1486,hypothetical protein
+B8809_1487,hypothetical protein
+B8809_1488,phosphoserine aminotransferase
+B8809_1489,putative membrane spanning protein
+B8809_1490,two-component sensor kinase
+B8809_1491,two-component response regulator
+B8809_1492,phosphoglyceromutase
+B8809_1493,14-dihydroxy-2-naphthoate polyprenyltransferase
+B8809_1494,lysyl-tRNA synthase
+B8809_1495,hypothetical protein
+B8809_1496,hypothetical protein
+B8809_1497,hypothetical protein
+B8809_1498,hypothetical protein
+B8809_1499,hypothetical protein
+B8809_1500,hypothetical protein
+B8809_1501,two-component sensor kinase
+B8809_1502,two-component response regulator
+B8809_1503,UDP-glucose 4-epimerase
+B8809_1504,galactose-1-phosphate uridylyltransferase
+B8809_1505,putative phosphotransferase
+B8809_1506,lacto-N-biose phosphorylase
+B8809_1507,sugar ABC transporter permease
+B8809_1508,sugar ABC transporter permease
+B8809_1509,Solute-binding protein of ABC transporter system for sugars
+B8809_1510,hypothetical protein
+B8809_1511,Seryl-tRNA synthetase
+B8809_1512,putative kinase
+B8809_1513,transcription antiterminator BglG family
+B8809_1514,glucose-specific II BC component
+B8809_1515,glucose/fructose transport protein
+B8809_1516,phosphoglucomutase
+B8809_1517,hypothetical protein
+B8809_1518,putative transcriptional regulator
+B8809_1519,putative pyridine nucleotide-disulfideoxidoreductase
+B8809_1520,hypothetical protein
+B8809_1521,ribonuclease H
+B8809_1522,ribose-5-phosphate isomerase
+B8809_1523,hypothetical protein
+B8809_1524,DNA repair protein
+B8809_1525,riboflavin kinase
+B8809_1526,tRNA pseudouridine synthase
+B8809_1527,ribosome-binding factor
+B8809_1528,translation initiation factor IF-2
+B8809_1529,transcription elongation factor NusA
+B8809_1530,hypothetical protein
+B8809_1531,RbsR-type transcription regulator/ ribose operon repressor
+B8809_1532,alpha-L-arabinofuranosidase
+B8809_1533,hypothetical protein
+B8809_1534,hypothetical protein
+B8809_1535,tRNA pseudouridine synthase
+B8809_1536,50S ribosomal protein L17
+B8809_1537,DNA-directed RNA polymerase subunit alpha
+B8809_1538,SSU ribosomal protein S11P
+B8809_1539,30S ribosomal protein S13
+B8809_1540,Bacterial Protein Translation Initiation Factor 1 (IF-1)
+B8809_1541,adenylate kinase
+B8809_1542,preprotein translocase subunit SecY
+B8809_1543,50S ribosomal protein L15
+B8809_1544,50S ribosomal protein L30
+B8809_1545,30S ribosomal protein S5
+B8809_1546,50S ribosomal protein L18
+B8809_1547,50S ribosomal protein L6
+B8809_1548,30S ribosomal protein S8
+B8809_1549,30S ribosomal protein S14-1
+B8809_1550,50S ribosomal protein L5
+B8809_1551,50S ribosomal protein L24
+B8809_1552,50S ribosomal protein L14
+B8809_1553,30S ribosomal protein S17
+B8809_1554,50S ribosomal protein L29
+B8809_1555,50S ribosomal protein L16
+B8809_1556,30S ribosomal protein S3
+B8809_1557,50S ribosomal protein L22
+B8809_1558,30S ribosomal protein S19
+B8809_1559,50S ribosomal protein L2
+B8809_1560,50S ribosomal protein L23
+B8809_1561,50S ribosomal protein L4
+B8809_1562,50S ribosomal protein L3
+B8809_1564,putative membrane spanning protein
+B8809_1565,aldehyde-alcohol dehydrogenase
+B8809_1566,putative transcriptional regulator
+B8809_1567,putative isoamylase
+B8809_1568,30S ribosomal protein S9
+B8809_1569,50S ribosomal protein L13
+B8809_1570,4-alpha-glucanotransferase
+B8809_1571,hypothetical protein
+B8809_1572,hypothetical protein
+B8809_1573,putative 2-hydroxyacid dehydrogenase
+B8809_1574,enzyme of poly-gamma-glutamate biosynthesis
+B8809_1575,transporter
+B8809_1576,putative DNA polymerase
+B8809_1577,putative aminotransferase
+B8809_1578,ferredoxin
+B8809_1579,amino acid transport protein
+B8809_1580,UDP-N-acetylenolpyruvoylglucosamine reductase
+B8809_1581,LSU ribosomal protein L33P
+B8809_1582,cystathionine gamma-synthase
+B8809_1583,co-chaperonin GroES
+B8809_1584,hypothetical protein
+B8809_1585,putative acetyltransferase
+B8809_1586,hypothetical protein
+B8809_1587,FmdB family transcriptional regulator
+B8809_1588,hypothetical protein
+B8809_1589,hypothetical protein
+B8809_1590,hypothetical protein
+B8809_1591,hypothetical protein
+B8809_1592,50S ribosomal protein L7/L12
+B8809_1593,50S ribosomal protein L10
+B8809_1594,hypothetical protein
+B8809_1595,Guanine-hypoxanthine permease
+B8809_1596,polynucleotide phosphorylase/polyadenylase
+B8809_1597,30S ribosomal protein S15
+B8809_1598,hypothetical protein
+B8809_1599,arabinofuranosidase
+B8809_1600,arabinofuranosidase
+B8809_1601,putative transposase
+B8809_1602,Transposase
+B8809_1603,IS21 family transposase
+B8809_1604,Transposase
+B8809_1605,Teichoic acid transporter
+B8809_1606,Hypothetical protein
+B8809_1607,fimbrial subunit
+B8809_1608,fimbriae protein with LPXTG motif and von Willebrand factor typeA domain
+B8809_1609,hypothetical protein
+B8809_1610,putative phage lysin
+B8809_1611,putative phage protein
+B8809_1612,phage-related integrase
+B8809_1613,hypothetical protein
+B8809_1614,hypothetical protein
+B8809_1615,hypothetical protein
+B8809_1616,hypothetical protein
+B8809_1617,hypothetical protein
+B8809_1618,Putative adsorption protein
+B8809_1619,Hypothetical protein
+B8809_1620,putative phage protein
+B8809_1621,hypothetical protein
+B8809_1622,Hypothetical protein
+B8809_1623,Putative phage protein
+B8809_1624,putative phage protein
+B8809_1625,Hypothetical protein
+B8809_1626,hypothetical protein
+B8809_1627,hypothetical protein
+B8809_1628,hypothetical protein
+B8809_1629,hypothetical protein
+B8809_1630,Phage major capsid protein
+B8809_1631,HK97 family phage prohead protease
+B8809_1632,Phage portal protein
+B8809_1633,hypothetical protein
+B8809_1634,Phage terminase
+B8809_1635,hypothetical protein
+B8809_1636,hypothetical protein
+B8809_1637,putative phage protein
+B8809_1638,hypothetical protein
+B8809_1639,hypothetical protein
+B8809_1640,hypothetical protein
+B8809_1641,hypothetical protein
+B8809_1642,hypothetical protein
+B8809_1643,hypothetical protein
+B8809_1644,hypothetical protein
+B8809_1645,Cryptic phage protein
+B8809_1646,hypothetical protein
+B8809_1647,hypothetical protein
+B8809_1648,ParB-like protein
+B8809_1649,hypothetical protein
+B8809_1650,hypothetical protein
+B8809_1651,hypothetical protein
+B8809_1652,Single stranded DNA-binding protein
+B8809_1653,hypothetical protein
+B8809_1654,hypothetical protein
+B8809_1655,hypothetical protein
+B8809_1656,hypothetical protein
+B8809_1657,hypothetical protein
+B8809_1658,hypothetical protein
+B8809_1659,hypothetical protein
+B8809_1660,hypothetical protein
+B8809_1661,hypothetical protein
+B8809_1662,hypothetical protein
+B8809_1663,hypothetical protein
+B8809_1664,hypothetical protein
+B8809_1665,hypothetical protein
+B8809_1666,hypothetical protein
+B8809_1667,gp28 phagic protein
+B8809_1668,integrase/recombinase
+B8809_1669,hypothetical protein
+B8809_1670,putative 4'-phosphopantetheinyl transferase
+B8809_1671,fatty acid synthase
+B8809_1672,propionyl-CoA carboxylase subunit beta
+B8809_1673,propionyl-CoA carboxylase alpha subunit
+B8809_1674,BioY protein
+B8809_1675,hypothetical protein
+B8809_1676,hypothetical protein
+B8809_1677,hypothetical protein
+B8809_1678,transcriptional regulator
+B8809_1679,transcriptional regulator
+B8809_1680,LSU ribosomal protein L1P
+B8809_1681,putative transcription antiterminator
+B8809_1682,Protein translocase subunit secE
+B8809_1683,aspartate aminotransferase
+B8809_1684,gamma-glutamyl kinase
+B8809_1685,GTPase
+B8809_1686,50S ribosomal protein L27
+B8809_1687,50S ribosomal protein L21
+B8809_1688,ribonuclease G
+B8809_1689,dipeptidase
+B8809_1690,putative transport protein
+B8809_1691,Transporter
+B8809_1692,ATP-binding protein of ABC transporter system
+B8809_1693,hypothetical protein
+B8809_1694,hypothetical protein
+B8809_1695,homoserine kinase
+B8809_1696,Homoserine dehydrogenase
+B8809_1697,putative diaminopimelate decarboxylase
+B8809_1698,arginyl-tRNA synthase
+B8809_1699,Transcriptional regulator TetR family
+B8809_1700,member of MFS possible Macrolide-efflux protein
+B8809_1701,putative transcriptional regulator
+B8809_1702,putative aminotransferase
+B8809_1703,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+B8809_1704,NADH oxidase
+B8809_1705,putative dihydroorotate dehydrogenase
+B8809_1706,3-isopropylmalate dehydratase small subunit
+B8809_1707,isopropylmalate isomerase large subunit
+B8809_1708,transcriptional regulator
+B8809_1709,putative phosphoesterase
+B8809_1710,polyphosphate kinase
+B8809_1711,hypothetical protein
+B8809_1712,Hypothetical protein
+B8809_1713,hypothetical protein
+B8809_1714,Uracil phosphoribosyltransferase
+B8809_1715,Hypothetical protein
+B8809_1716,Glycerophosphoryl diester phosphodiesterase
+B8809_1717,Glutamyl-tRNA synthetase
+B8809_1718,ClpB protein
+B8809_1719,ClpB protein
+B8809_1720,histidine ammonia-lyase
+B8809_1721,IclR family transcriptional regulator
+B8809_1722,putative hydrolase
+B8809_1723,putative membrane spanning protein
+B8809_1724,putative UDP-galactopyranose mutase
+B8809_1725,Glycosyltransferase involved in cell wall biogenesis
+B8809_1726,Transposase
+B8809_1727,Transposase
+B8809_1728,ATPase
+B8809_1729,Phosphoglycerol transferase
+B8809_1730,Glycosyltransferase
+B8809_1731,ATP-binding protein ABC transporter system for polysaccharides
+B8809_1732,Glycosyl hydrolase family 9
+B8809_1733,Rhamnan synthesis protein F
+B8809_1734,Glycosyltransferase family 2
+B8809_1735,Glucose-1-phosphate thymidylyltransferase
+B8809_1736,dTDP-4-dehydrorhamnose 35-epimerase/dTDP-4-dehydrorhamnose reductase
+B8809_1737,dTDP-glucose 46-dehydratase
+B8809_1738,Conserved hypothetical membrane spanning protein
+B8809_1739,Glycosyltransferase family 2
+B8809_1740,Phosphoglycerol transferase
+B8809_1741,transposase
+B8809_1742,hypothetical protein
+B8809_1743,hypothetical protein
+B8809_1744,ABC transporter permease
+B8809_1745,ABC transporter ATP-binding protein
+B8809_1746,hypothetical protein
+B8809_1747,hypothetical protein
+B8809_1748,potassium transport protein
+B8809_1749,putative DNase
+B8809_1750,hypothetical protein
+B8809_1751,ABC transporter permease protein probably fructooligosaccharide porter
+B8809_1752,ABC transporter permease protein probably fructooligosaccharide porter
+B8809_1753,ABC transporter extracellular substrate binding protein probably fructooligosaccharide porter
+B8809_1754,exo-alpha-L-arabinofuranosidase II
+B8809_1755,esterase
+B8809_1756,LacI family transcriptional regulator
+B8809_1757,beta-xylosidase
+B8809_1758,beta-xylosidase
+B8809_1759,beta-xylosidase or endo-arabinase
+B8809_1760,alpha-arabinofuranosidase I
+B8809_1761,ABC transporter ATP-binding and permease component
+B8809_1762,ABC transporter ATP-binding and permease component
+B8809_1763,alpha-galactosidase
+B8809_1764,LacI family transcriptional regulator
+B8809_1765,AraC family transcriptional regulator
+B8809_1766,hypothetical protein
+B8809_1767,Aminopeptidase C
+B8809_1768,hypothetical protein
+B8809_1769,hypothetical protein
+B8809_1770,methionyl-tRNA synthase
+B8809_1771,hypothetical protein
+B8809_1772,hypothetical protein
+B8809_1773,member of MFS possible Melibiose carrier protein
+B8809_1774,hypothetical protein
+B8809_1775,putative ABC transporter permease
+B8809_1776,putative ABC transporter permease
+B8809_1777,Transcriptional regulator MarR family
+B8809_1778,DNA-damage-inducible protein
+B8809_1779,glycosyl hydrolase family 43 protein
+B8809_1780,beta-n-acetylhexosaminidase NagZ
+B8809_1781,hypothetical protein
+B8809_1782,Amino acid permease
+B8809_1783,ABC transporter permease
+B8809_1784,ABC transporter ATP-binding protein
+B8809_1785,tetR family transcriptional regulator
+B8809_1786,aromatic amino acid transport protein
+B8809_1787,hypothetical protein
+B8809_1788,putative transposase
+B8809_1789,transposase
+B8809_1790,Glycosyl hydrolase family 43
+B8809_1791,hypothetical protein
+B8809_1792,oligosaccharide ABC transporter permease component
+B8809_1793,oligosaccharide ABC transporter permease component
+B8809_1794,transcriptional regulator
+B8809_1795,Solute binding protein of ABC transporter system for sugars
+B8809_1796,putative phosphoglycerate mutase
+B8809_1797,hypothetical protein
+B8809_1798,putative nitroreductase
+B8809_1799,hypothetical protein
+B8809_1800,hypothetical protein
+B8809_1801,Raffinose synthase or seed imbibition protein Sip1/Alpha-galactosidase
+B8809_1802,Alpha-14-glucosidase
+B8809_1803,Permease protein of ABC transporter system for sugars
+B8809_1804,Permease protein of ABC transporter system for sugars
+B8809_1805,Solute binding protein of ABC transporter system for sugars
+B8809_1806,hypothetical protein
+B8809_1807,Solute binding protein of ABC transporter system for sugars
+B8809_1808,Transcriptional regulator LacI family
+B8809_1809,Transcriptional regulator LacI family
+B8809_1810,Raffinose transport system permease protein
+B8809_1811,Raffinose transport system permease protein
+B8809_1812,sugar ABC transporter substrate binding component
+B8809_1813,Transcriptional repressor ROK family
+B8809_1814,alpha-galactosidase
+B8809_1815,putative cytidine/deoxycytidine deaminase
+B8809_1816,putative Na+/H+ antiporter
+B8809_1817,phospholipase/carboxylesterase
+B8809_1818,hypothetical protein
+B8809_1819,deoxycytidine triphosphate deaminase
+B8809_1820,hypothetical protein
+B8809_1821,Calcium-transporting ATPase
+B8809_1822,endo-14-beta-xylanase
+B8809_1823,transporter
+B8809_1824,RNA methyltransferase
+B8809_1825,hypothetical protein
+B8809_1826,hypothetical protein
+B8809_1827,hypothetical protein
+B8809_1828,Conserved hypothetical secreted protein
+B8809_1829,sortase
+B8809_1830,Cell surface protein with gram positive anchor and Cna protein B-type domains
+B8809_1831,Cell surface protein with gram positive anchor domain
+B8809_1832,ABC transporter ATP-binding protein
+B8809_1833,putative glycosyltransferase
+B8809_1834,ribonucleotide-diphosphate reductase subunit beta
+B8809_1835,ribonucleotide-diphosphate reductase subunit alpha
+B8809_1836,ribonucleotide reductase stimulatory protein
+B8809_1837,putative glutaredoxin
+B8809_1838,hypothetical protein
+B8809_1839,hypothetical protein
+B8809_1840,Potassium channel protein
+B8809_1841,Hypothetical protein
+B8809_1842,Beta-glucosidase
+B8809_1843,hypothetical protein
+B8809_1844,Hypothetical protein
+B8809_1845,hypothetical protein
+B8809_1846,dimethyladenosine transferase
+B8809_1847,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+B8809_1848,hypothetical protein
+B8809_1849,putative RNA nucleotidyltransferase
+B8809_1850,hypothetical protein
+B8809_1851,hypothetical protein
+B8809_1852,hypothetical protein
+B8809_1853,hypothetical protein
+B8809_1854,thioredoxin reductase
+B8809_1855,putative chromosome partitioning protein ParB
+B8809_1856,chromosome partitioning protein ParA
+B8809_1857,glucose-inhibited division protein
+B8809_1858,hypothetical protein
+B8809_1859,hypothetical protein
+B8809_1860,50S ribosomal protein L34
